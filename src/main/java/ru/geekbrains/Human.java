@@ -58,3 +58,4 @@ public class Human implements Competitor {
         System.out.println(name + " " + active);
     }
 }
+

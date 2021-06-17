@@ -1,5 +1,6 @@
 package ru.geekbrains;
 
+
 public interface Competitor {
     void run(int dist);
 

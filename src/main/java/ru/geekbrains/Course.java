@@ -8,6 +8,7 @@ public class Course {
         course[2] = b3;
     }
 
+
     public void doIt(Team t) {
         System.out.println("\nTeam \"" + t.nameTeam + "\":\n");
         for (Competitor com : t.getTeammates()) {
