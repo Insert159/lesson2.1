@@ -5,6 +5,7 @@ public class Animal implements Competitor {
     String type;
     String name;
 
+
     int maxRunDistance;
     int maxJumpHeight;
     int maxSwimDistance;

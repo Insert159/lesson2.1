@@ -5,3 +5,4 @@ public class Dog extends Animal {
         super("Dog", name, 300, 40, 4);
     }
 }
+

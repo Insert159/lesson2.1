@@ -33,6 +33,7 @@ class Water extends Barrier {
 class Cross extends Barrier {
     int length;
 
+
     public Cross(int length) {
         this.length = length;
     }
